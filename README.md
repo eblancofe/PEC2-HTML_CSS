@@ -14,7 +14,7 @@ La PEC2 consta de dos partes: parte 1-Desarrollo y  parte 2-Documentación.
 
 ### Parte 1: Desarrollo
 
-En esta parte se ha seguido modificando el desarrollado creado en la anterior "PEC1",sobre el municipio "Santibáñez el Bajo" - Plasencia - Cáceres (Extremadura).
+En esta parte se ha seguido modificando el desarrollado creado en la anterior "PEC1", sobre el municipio "Santibáñez el Bajo" - Plasencia - Cáceres (Extremadura).
 
 Se muestran los siguientes enlaces para ver en más detalle el portal Web de la "PEC2".
 
